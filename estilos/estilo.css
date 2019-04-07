@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-abr-2019, 15:30:26
+    Author     : xavier
+*/
+h2{
+    color: red;
+    text-transform: uppercase;
+    background: bisque;
+}
+h3{
+    font-family: 'Arial';
+    font-size: 25pt;
+    letter-spacing: 1px;
+    width: 100%;
+    background: #2980b9;
+    padding: 15px;
+    color: #FFF;
+    text-align: center;
+    text-transform: uppercase;
+}
